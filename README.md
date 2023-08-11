@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for a role as a **Full Stack Developer**
 
-- 📝 I regularly write articles on [What ever I learn Daily.](What ever I learn Daily.)
-
 - 💬 Ask me about **Cpp , Java, JavaScript, Machine Learning.**
 
 - 📫 How to reach me **adarshhlohar@gmail.com**
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adarsh-lohar-55723a229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarsh-lohar-55723a229/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarsh lohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh lohar" height="30" width="40" /></a>
 <a href="https://kaggle.com/adarsh lohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarsh lohar" height="30" width="40" /></a>
 <a href="https://fb.com/adarsh lohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarsh lohar" height="30" width="40" /></a>
 <a href="https://instagram.com/_a_d_a_r_s_h_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_d_a_r_s_h_21" height="30" width="40" /></a>
